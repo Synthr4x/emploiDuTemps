@@ -3,7 +3,7 @@ emploiDuTemps
 
 Mini projet java utilisant des composants Swing, et JCalendar afin d'organiser intelligemment un emploi du temps.
 
-Utilisation du plugin JCalendar pour le choix ergonomique des dates a réserver sur l'emploi du temps en tant que professeur avec 4 types de réservations amphithéatre/TD/TP/réunion) répartis sur 4 créneaux différents.
+Utilisation du plugin JCalendar pour le choix ergonomique des dates a réserver sur l'emploi du temps en tant que professeur avec 4 types de réservations ; amphithéatre/TD/TP/réunion répartis sur 4 créneaux différents.
 L'attribution de la salle ce fait dynamiquement pour éviter tout conflit et n'est plus possible s'il n'y a pas de salles disponible à ce créneau pour le type demandé.
 Il est possible de supprimer une réservation à une date.
 
