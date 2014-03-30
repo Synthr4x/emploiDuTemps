@@ -1,0 +1,9 @@
+<reservations>
+<calendrier date='2/12/2012'>
+<creneau numero_creneau='UN'>
+< salle numeroSalle='18' capaciteSalle='48' numeroEtage='0' nomSalle='N+018' batimentSalle='N' nomProf='ILLUMINATI' effectif='22' type_salle='salles.Reunion' />
+< salle numeroSalle='20' capaciteSalle='300' numeroEtage='-2' nomSalle='O-220' batimentSalle='O' nomProf='Mazen' effectif='22' type_salle='salles.Amphi' />
+< salle numeroSalle='19' capaciteSalle='48' numeroEtage='-1' nomSalle='O-119' batimentSalle='O' nomProf='Lepen' effectif='33' type_salle='salles.Cours' />
+</creneau>
+</calendrier>
+</reservations>
